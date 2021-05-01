@@ -1,0 +1,23 @@
+baseURL = "https://kravmagamontpellier.net/"
+languageCode = "fr-FR"
+title = "KM n'co"
+theme = "zen"
+
+[params]
+cookieConsent = false
+contact = "jdcohen71@gmail.com"
+dateformat = ""            # Set the date format, default to "2 January, 2006"
+description = "Club de Krav Maga adhérent à la FEKM à Montpellier"           # Set site description, used in meta tags and JSON-LD
+favicon = ""               # Relative path to favicon in json feed, no leading slash.
+feedlinks = false          # Show feed links in the footer.
+footer = "6 rue Robert Koch, 34080 Montpellier (Club St Roch). Mardi et jeudi de 19h45 à 21h15 (parquet et tatami)"
+jquery = false              # Add jQuery
+logo = true               # Turn off the logo.
+mainSections = []
+mobleMenu = false   # Turn on a mobile menu on small screens.
+poweredby = false          # Show powered by hugo in footer
+privacyPolicyUrl = ""      # If set will add link to cookie consent form.
+sidebar = true            # Show a sidebar to the right
+submitted = false           # Show author and date information for a post.
+themeColor = "#ffffff"               # Hex color value, used in meta tags, default "#ffffff".
+realfavicongenerator = false
