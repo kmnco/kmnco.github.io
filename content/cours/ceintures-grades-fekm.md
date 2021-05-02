@@ -1,7 +1,6 @@
 ---
 title: "Ceintures & grades FEKM"
 date: 2021-05-01T14:40:29+02:00
-draft: true
 ---
 
 ## Les programmes techniques de la FEKM

@@ -1,7 +1,6 @@
 ---
 title: "Le club KM n'co"
 date: 2021-05-01T11:52:26+02:00
-draft: true
 ---
 
 # Un Club volontairement « restreint »…

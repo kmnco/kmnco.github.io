@@ -1,7 +1,6 @@
 ---
 title: "L'instructeur"
 date: 2021-05-01T12:04:19+02:00
-draft: true
 ---
 
 # Jean-David COHEN, 16 ans de pratique du Krav-Maga, Ceinture Noire 4ème Darga

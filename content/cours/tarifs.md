@@ -1,7 +1,6 @@
 ---
 title: "Tarifs"
 date: 2021-05-01T14:42:58+02:00
-draft: true
 categories:
   - Cours
 ---

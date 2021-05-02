@@ -1,7 +1,6 @@
 ---
 title: "Inscription"
 date: 2021-05-01T14:45:23+02:00
-draft: true
 ---
 
 # Comment s’inscrire ?

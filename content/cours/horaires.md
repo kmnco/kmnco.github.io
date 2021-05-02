@@ -1,7 +1,6 @@
 ---
 title: "Horaires"
 date: 2021-05-01T14:41:46+02:00
-draft: true
 ---
 
 # 2 rendez-vous par semaine
