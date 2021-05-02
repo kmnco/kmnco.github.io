@@ -12,6 +12,8 @@ Médecin hospitalier spécialiste des os et articulations (rhumatologue), Jean-D
 - Instructeur depuis 2006
 - Stages internationaux Eté 2008, 2009, 2010 (groupe Débutant) aux côtés de Richard Douieb et Steve Schmitt
 
+![Paris, 2008](/static/images/instructeur/stage-paris-08-jean-david-y-richard.jpg.webp)
+
 ## Diplômes et grades
 
 - Initiateur (FEKM) en 2007

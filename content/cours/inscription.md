@@ -3,7 +3,7 @@ title: "Inscription"
 date: 2021-05-01T14:45:23+02:00
 ---
 
-# Comment s’inscrire ?
+## Comment s’inscrire ?
 
 Vous pouvez assister à un cours avant de vous inscrire (voir horaires des cours et le lieu) !
 
@@ -15,18 +15,4 @@ Vous pouvez assister à un cours avant de vous inscrire (voir horaires des cours
 
 Livret de la FEKM à découvrir ici : Livret_licencie19-20
 
-Montant du règlement :
-
-TARIF NORMAL : 239 €
-
-198 € pour les cours à l’année (hors vacances scolaires) + 30 € de licence fédérale FEKM + 3 € d’assurance + 8 € de passeport sportif fédéral (valable 5 ans) soit 239 € l’année (ou 231 € pour un renouvellement d’adhésion durant la validité du passeport)
-
-TARIF SPECIAL : 209 € (étudiants, chômeurs, membres Club St Roch, sur justificatif)
-
-168 € pour les cours à l’année (hors vacances scolaires) + 30 € de licence fédérale FEKM + 3 € d’assurance + 8 € de passeport sportif fédéral (valable 5 ans) soit 209 € l’année (ou 201 € pour un renouvellement d’adhésion durant la validité du passeport)
-
-Facilités de paiement :
-
-Vous pouvez échelonner vos règlements au trimestre (79 € + 80 € + 80 € par chèque à remettre à l’inscription pour une adhésion plein tarif) et si nécessaire par mensualités de septembre à juin (33 € le premier mois – licence et assurance -, puis 23€ par mois à remettre à l’inscription, pour une adhésion plein tarif)
-
-Toute année sportive débutée doit être réglée en totalité et ne pourra faire l’objet d’aucun remboursement.
+Voir les [tarifs]({{< ref "/cours/tarifs" >}} "Tarifs")
