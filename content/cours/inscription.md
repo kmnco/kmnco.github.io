@@ -13,6 +13,6 @@ Vous pouvez assister à un cours avant de vous inscrire (voir horaires des cours
 - La remettre au club KM n’Co avec un certificat médical d’aptitude à la pratique du Krav-Maga
 - Vous recevrez ensuite votre timbre licence à apposer sur votre passeport sportif (obligatoire) par mail
 
-Livret de la FEKM à découvrir ici : Livret_licencie19-20
+Livret de la FEKM à découvrir [ici](/livret_licencie19-20.pdf).
 
-Voir les [tarifs]({{< ref "/cours/tarifs" >}} "Tarifs")
+Voir les [tarifs](/cours/tarifs).

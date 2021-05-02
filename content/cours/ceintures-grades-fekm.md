@@ -17,15 +17,4 @@ Deux ans entre la ceinture noire et la 2ème Darga, 3 ans entre la 2 et la 3, 4 
 
 Et donc 14 ans de pratique entre la ceinture noire 1er niveau et le plus haut grade technique de la fédération, la 5ème Darga.
 
-Retrouvez tous les détails des « ceintures » par niveau :
-
-passage_de_grade_ceinture_jaune_1
-passage_de_grade_ceinture_orange_1
-passage_de_grade_ceinture_verte_0
-passage_de_grade_ceinture_bleue_0
-passage_de_grade_ceinture_marron_0
-prog_1ere_darga
-prog_2eme_darga
-prog_3me_darga
-prog_4me_darga
-prog_5me_darga
+Retrouvez tous les détails des "ceintures" par niveau [sur le site de la FEKM](https://www.krav-maga.net/le-krav-maga/programmes-techniques/).

@@ -3,7 +3,7 @@ title: "Le club KM n'co"
 date: 2021-05-01T11:52:26+02:00
 ---
 
-# Un Club volontairement « restreint »…
+# Un Club volontairement "restreint"...
 
 **KM n’Co** est né de l’envie d’un groupe de personnes pratiquant le Krav-Maga de se réunir dans un format intimiste, convivial et privilégié. Son nom est d’ailleurs parti de cette volonté de collaboration entre des personnes qui s’étaient choisies et qui voulaient ouvrir leur univers à d’autres, sans pour autant tomber dans une approche trop impersonnelle souvent reprochées aux club plus importants : **Krav Maga et Collaboration** (KM n’Co).
 

@@ -2,6 +2,7 @@ baseURL = "https://kravmagamontpellier.net/"
 languageCode = "fr-FR"
 title = "KM n'co"
 theme = "zen"
+pluralizelisttitles = false
 
 [params]
 cookieConsent = false
