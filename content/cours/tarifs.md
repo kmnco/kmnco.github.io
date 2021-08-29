@@ -1,30 +1,18 @@
 ---
 title: "Tarifs"
-date: 2021-05-01T14:42:58+02:00
+date: 2021-08-29T14:42:58+02:00
 ---
 
-### TARIF NORMAL : 239 €
+### Adhérent du club Saint Roch
 
-198 € pour les cours à l’année (hors vacances scolaires), plus :
+144 euros par an **OU** 19 euros les deux mois (+ 41 euros pour la licence avec l’inscription en ligne à la FEKM)
 
-- 30 € de licence fédérale FEKM
-- 3 € d’assurance
-- 8 € de passeport sportif fédéral (valable 5 ans)
+### Nouvel adhérent
 
-Soit 239 € l’année (ou 231 € pour un renouvellement d’adhésion durant la validité du passeport)
+- Si étudiant ou chômeur : 169 euros par an **OU** 34 euros les deux mois (+ 41 euros pour la licence avec l’inscription en ligne à la FEKM)
+- Tarif normal : 199 euros par an **OU** 39 euros les 2 mois (+ 41 euros pour la licence avec l’inscription en ligne à la FEKM)
 
-### TARIF SPECIAL : 209 € (étudiants, chômeurs, membres Club St Roch, sur justificatif)
+### Ancien adhérent
 
-168 € pour les cours à l’année (hors vacances scolaires), plus :
-
-- 30 € de licence fédérale FEKM
-- 3 € d’assurance
-- 8 € de passeport sportif fédéral (valable 5 ans)
-
-Soit 209 € l’année (ou 201 € pour un renouvellement d’adhésion durant la validité du passeport)
-
-### Facilités de paiement
-
-Vous pouvez échelonner vos règlements au trimestre (79 € + 80 € + 80 € par chèque à remettre à l’inscription pour une adhésion plein tarif) et si nécessaire par mensualités de septembre à juin (33 € le premier mois – licence et assurance -, puis 23€ par mois à remettre à l’inscription, pour une adhésion plein tarif)
-
-Toute année sportive débutée doit être réglée en totalité et ne pourra faire l’objet d’aucun remboursement.
+- Si étudiant ou chômeur : 169 euros par an **OU** 34 euros les deux mois (+ 33 euros pour la licence avec l’inscription en ligne à la FEKM)
+- Tarif normal : 199 euros par an **OU** 39 euros les 2 mois (+ 33 euros pour la licence avec l’inscription en ligne à la FEKM)
