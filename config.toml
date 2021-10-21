@@ -7,12 +7,12 @@ pluralizelisttitles = false
 [params]
 cookieConsent = false
 contact = "jdcohen71@gmail.com"
-copyright = "Retrouvez-nous sur Facebook : [KM n'co](https://www.facebook.com/KM-nCo-Krav-Maga-Montpellier-1997338813834734/)"
+copyright = "Club affilié à la [FEKM](https://www.krav-maga.net/club/km-nco/). Retrouvez-nous sur Facebook : [KM n'co](https://www.facebook.com/KM-nCo-Krav-Maga-Montpellier-1997338813834734/)"
 dateformat = ""            # Set the date format, default to "2 January, 2006"
 description = "Club de Krav Maga adhérent à la FEKM à Montpellier"           # Set site description, used in meta tags and JSON-LD
 favicon = ""               # Relative path to favicon in json feed, no leading slash.
 feedlinks = false          # Show feed links in the footer.
-footer = "6 rue Robert Koch, 34080 Montpellier (Club St Roch). Mardi et jeudi de 19h45 à 21h15 (parquet et tatami)"
+footer = "6 rue Robert Koch, 34080 Montpellier ([Club St Roch](http://www.clubsaintroch.fr)). Mardi et jeudi de 19h45 à 21h15 (parquet et tatami)"
 jquery = false              # Add jQuery
 logo = true               # Turn off the logo.
 mainSections = []

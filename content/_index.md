@@ -1,13 +1,9 @@
 La self-defense pour tous
 
-## REPRISE DES COURS EN SEPTEMBRE 2021 !
-
-Les cours reprendront à partir du jeudi 9 septembre avec toujours les mêmes horaires au Club St Roch :
+Les cours ont repris depuis septembre 2021, avec toujours les mêmes [horaires](/cours/horaires) au [Club St Roch](/cours/comment-venir) :
 
 - mardi soir de 19h45 à 21h15
 - jeudi soir de 19h45 à 21h15
-
-**Exceptionnellement, il n'y aura pas de cours le jeudi 16 et le mardi 21 septembre.**
 
 Il est possible de faire 2 séances d'essai à l'issue desquelles il faudra obligatoirement s'inscrire pour continuer.
 
