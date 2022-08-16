@@ -1,13 +1,11 @@
 La self-defense pour tous
 
-Les cours ont repris depuis septembre 2021, avec toujours les mêmes [horaires](/cours/horaires) au [Club St Roch](/cours/comment-venir) :
+Les cours reprendront à partir du mardi 6 septembre 2022, avec toujours les mêmes [horaires](/cours/horaires) au [Club St Roch](/cours/comment-venir) :
 
 - mardi soir de 19h45 à 21h15
 - jeudi soir de 19h45 à 21h15
 
-Il est possible de faire 2 séances d'essai à l'issue desquelles il faudra obligatoirement s'inscrire pour continuer.
-
-COVID oblige, à chaque séance il faudra avoir son pass sanitaire à jour et inscrire son nom sur une feuille d'émargement (pour pouvoir vous contacter si jamais quelqu'un était positif). A priori, on part sur des séances avec le masque obligatoire (a minima pour les combats ou quand on ne peut pas respecter la distanciation sociale).
+Il est possible de faire 1 séance d'essai à l'issue de laquelle il faudra obligatoirement s'inscrire pour continuer.
 
 Pour l'inscription, il vous faudra une photo d'identité et surtout un certificat médical.
 
